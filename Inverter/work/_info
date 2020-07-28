@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/sriram/Documents/Verilog/Inverter
+vMyInverter
+!s110 1595945433
+!i10b 1
+!s100 1IPZg?bOEIXi@3>4DG:8j1
+I8=Vh_GcHfF^z=7KY0m8>B3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1595945429
+8/home/sriram/Documents/Verilog/Inverter/MyInverter.v
+F/home/sriram/Documents/Verilog/Inverter/MyInverter.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1595945433.000000
+!s107 /home/sriram/Documents/Verilog/Inverter/MyInverter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/Inverter/MyInverter.v|
+!i113 1
+o-work work
+tCvgOpt 0
+n@my@inverter
