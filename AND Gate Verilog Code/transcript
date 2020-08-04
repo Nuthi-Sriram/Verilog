@@ -1,0 +1,87 @@
+# Loading project AND Gate
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project Nand Gate
+# Compile of NandGate.v was successful.
+vsim work.nandgate
+# vsim work.nandgate 
+# Start time: 11:30:50 on Aug 04,2020
+# Loading work.nandgate
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+add wave -position end  sim:/nandgate/x
+add wave -position end  sim:/nandgate/y
+add wave -position end  sim:/nandgate/z
+force -freeze sim:/nandgate/x 1 0
+force -freeze sim:/nandgate/y 1 0
+run
+force -freeze sim:/nandgate/y 0 0
+run
+quit -sim
+# End time: 11:40:11 on Aug 04,2020, Elapsed time: 0:09:21
+# Errors: 0, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project OR Gate
+# Compile of ORGate.v was successful.
+# Compile of ORGate.v was successful.
+vsim work.nandgate
+# vsim work.nandgate 
+# Start time: 11:42:33 on Aug 04,2020
+# Loading work.nandgate
+add wave -position end  sim:/nandgate/x
+add wave -position end  sim:/nandgate/y
+add wave -position end  sim:/nandgate/z
+force -freeze sim:/nandgate/x 1 0
+force -freeze sim:/nandgate/y 1 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/nandgate/y 0 0
+force -freeze sim:/nandgate/y 0 0
+run
+force -freeze sim:/nandgate/x 0 0
+run
+quit -sim
+# End time: 11:44:23 on Aug 04,2020, Elapsed time: 0:01:50
+# Errors: 0, Warnings: 8
+quit -sim
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project Or_gate_level
+# Compile of Or_gate_level.v failed with 3 errors.
+# Compile of Or_gate_level.v was successful.
+# Compile of Or_gate_level.v was successful.
+vsim work.orgate_level
+# vsim work.orgate_level 
+# Start time: 12:27:47 on Aug 04,2020
+# Loading work.orgate_level
+add wave -position end  sim:/orgate_level/y
+add wave -position end  sim:/orgate_level/a
+add wave -position end  sim:/orgate_level/b
+force -freeze sim:/orgate_level/a 1 0
+force -freeze sim:/orgate_level/b 0 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/orgate_level/a 0 0
+run
+quit -sim
+# End time: 12:28:58 on Aug 04,2020, Elapsed time: 0:01:11
+# Errors: 0, Warnings: 8

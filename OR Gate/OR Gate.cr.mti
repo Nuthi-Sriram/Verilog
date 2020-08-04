@@ -1,0 +1,8 @@
+{/home/sriram/Documents/Verilog/OR Gate/ORGate.v} {1 {vlog -work work -stats=none {/home/sriram/Documents/Verilog/OR Gate/ORGate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module nandgate
+
+Top level modules:
+	nandgate
+
+} {} {}}

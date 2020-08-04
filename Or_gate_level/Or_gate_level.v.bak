@@ -1,0 +1,12 @@
+
+
+//Model to OR Gate level
+
+module orgate_level(output y,input a, inputb);
+
+//input x,y;
+//output z;
+
+or(y,a,b);
+
+endmodule

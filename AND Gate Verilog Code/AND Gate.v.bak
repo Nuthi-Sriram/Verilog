@@ -5,6 +5,6 @@ module andgate(x,y,z);
 input x,y;
 output z;
 
-assign y=x&y;
+assign z=x&y;
 
 endmodule
