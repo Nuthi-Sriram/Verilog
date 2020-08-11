@@ -1,0 +1,317 @@
+# Loading project threeOR_gate_Gate_level_implementation
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project threeOR_gate_Data_Flow_level_implementation
+# Compile of threeOR_gate_Data_Flow_level_implementation.v was successful.
+vsim work.threeorgateDataFlowLevel
+# vsim work.threeorgateDataFlowLevel 
+# Start time: 11:56:29 on Aug 11,2020
+# Loading work.threeorgateDataFlowLevel
+add wave -position end  sim:/threeorgateDataFlowLevel/a
+add wave -position end  sim:/threeorgateDataFlowLevel/b
+add wave -position end  sim:/threeorgateDataFlowLevel/c
+add wave -position end  sim:/threeorgateDataFlowLevel/d
+add wave -position end  sim:/threeorgateDataFlowLevel/out
+force -freeze sim:/threeorgateDataFlowLevel/a 1 0
+force -freeze sim:/threeorgateDataFlowLevel/b 1 0
+force -freeze sim:/threeorgateDataFlowLevel/c 1 0
+force -freeze sim:/threeorgateDataFlowLevel/d 1 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/threeorgateDataFlowLevel/c 0 0
+run
+force -freeze sim:/threeorgateDataFlowLevel/b 0 0
+run
+force -freeze sim:/threeorgateDataFlowLevel/a 0 0
+run
+force -freeze sim:/threeorgateDataFlowLevel/d 0 0
+run
+quit -sim
+# End time: 11:58:23 on Aug 11,2020, Elapsed time: 0:01:54
+# Errors: 0, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project andOrNotGateLevelImplementation
+# Compile of andOrNotGateLevelImplementation.v was successful.
+vsim work.andOrNotGateLevelImplementation
+# vsim work.andOrNotGateLevelImplementation 
+# Start time: 12:04:58 on Aug 11,2020
+# Loading work.andOrNotGateLevelImplementation
+add wave -position end  sim:/andOrNotGateLevelImplementation/A
+add wave -position end  sim:/andOrNotGateLevelImplementation/B
+add wave -position end  sim:/andOrNotGateLevelImplementation/C
+force -freeze sim:/andOrNotGateLevelImplementation/A 1 0
+force -freeze sim:/andOrNotGateLevelImplementation/B 1 0
+force -freeze sim:/andOrNotGateLevelImplementation/C 1 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/andOrNotGateLevelImplementation/C 0 0
+run
+force -freeze sim:/andOrNotGateLevelImplementation/B 0 0
+run
+quit -sim
+# End time: 12:06:57 on Aug 11,2020, Elapsed time: 0:01:59
+# Errors: 0, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project andOrNotDataFlowLevelImplementation
+# Compile of andOrNotDataFlowLevelImplementation.v was successful.
+vsim work.andOrNotDataFlowLevelImplementation
+# vsim work.andOrNotDataFlowLevelImplementation 
+# Start time: 12:12:48 on Aug 11,2020
+# Loading work.andOrNotDataFlowLevelImplementation
+add wave -position end  sim:/andOrNotDataFlowLevelImplementation/A
+add wave -position end  sim:/andOrNotDataFlowLevelImplementation/B
+add wave -position end  sim:/andOrNotDataFlowLevelImplementation/C
+force -freeze sim:/andOrNotDataFlowLevelImplementation/A 1 0
+force -freeze sim:/andOrNotDataFlowLevelImplementation/B 1 0
+force -freeze sim:/andOrNotDataFlowLevelImplementation/C 1 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/andOrNotDataFlowLevelImplementation/C 0 0
+run
+force -freeze sim:/andOrNotDataFlowLevelImplementation/A 0 0
+run
+force -freeze sim:/andOrNotDataFlowLevelImplementation/C 1 0
+run
+quit -sim
+# End time: 12:14:09 on Aug 11,2020, Elapsed time: 0:01:21
+# Errors: 0, Warnings: 8
+
+quit -sim
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project HalfAdderGateLevel
+# Compile of HalfAdderGateLevel.v was successful.
+vsim work.HalfAdderGateLevel
+# vsim work.HalfAdderGateLevel 
+# Start time: 12:20:30 on Aug 11,2020
+# Loading work.HalfAdderGateLevel
+add wave -position end  sim:/HalfAdderGateLevel/A
+add wave -position end  sim:/HalfAdderGateLevel/B
+force -freeze sim:/HalfAdderGateLevel/A 0 0
+force -freeze sim:/HalfAdderGateLevel/B 0 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/HalfAdderGateLevel/B 1 0
+run
+force -freeze sim:/HalfAdderGateLevel/A 1 0
+run
+force -freeze sim:/HalfAdderGateLevel/A 0 0
+run
+quit -sim
+# End time: 12:21:27 on Aug 11,2020, Elapsed time: 0:00:57
+# Errors: 0, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project HalfAdderDataFlowLevel
+# Compile of HalfAdderDataFlowLevel.v was successful.
+vsim work.HalfAdderGateLevel
+# vsim work.HalfAdderGateLevel 
+# Start time: 12:25:21 on Aug 11,2020
+# Loading work.HalfAdderGateLevel
+add wave -position end  sim:/HalfAdderGateLevel/A
+add wave -position end  sim:/HalfAdderGateLevel/B
+force -freeze sim:/HalfAdderGateLevel/A 1 0
+force -freeze sim:/HalfAdderGateLevel/B 1 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/HalfAdderGateLevel/B 0 0
+run
+force -freeze sim:/HalfAdderGateLevel/A 0 0
+run
+
+quit -sim
+# End time: 12:26:12 on Aug 11,2020, Elapsed time: 0:00:51
+# Errors: 0, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project twoANDNOTORGateLevel
+# Compile of twoANDNOTORGateLevel.v was successful.
+vsim work.twoANDNOTORGateLevel
+# vsim work.twoANDNOTORGateLevel 
+# Start time: 12:33:25 on Aug 11,2020
+# Loading work.twoANDNOTORGateLevel
+add wave -position end  sim:/twoANDNOTORGateLevel/x1
+add wave -position end  sim:/twoANDNOTORGateLevel/s
+add wave -position end  sim:/twoANDNOTORGateLevel/x2
+force -freeze sim:/twoANDNOTORGateLevel/x1 1 0
+force -freeze sim:/twoANDNOTORGateLevel/s 1 0
+force -freeze sim:/twoANDNOTORGateLevel/x2 1 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+quit -sim
+# End time: 12:34:41 on Aug 11,2020, Elapsed time: 0:01:16
+# Errors: 0, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project twoANDNOTORGateLevel
+# Compile of twoANDNOTORDataFlowLevel.v was successful.
+# Compile of twoANDNOTORDataFlowLevel.v was successful.
+vsim work.twoANDNOTORDataFlowLevel
+# vsim work.twoANDNOTORDataFlowLevel 
+# Start time: 12:41:59 on Aug 11,2020
+# Loading work.twoANDNOTORDataFlowLevel
+add wave -position end  sim:/twoANDNOTORDataFlowLevel/x1
+add wave -position end  sim:/twoANDNOTORDataFlowLevel/s
+add wave -position end  sim:/twoANDNOTORDataFlowLevel/x2
+force -freeze sim:/twoANDNOTORDataFlowLevel/x1 1 0
+# Can't move the Now cursor.
+force -freeze sim:/twoANDNOTORDataFlowLevel/s 2 0
+# Invalid binary digit: 2.
+# ** Error: (vsim-4011) Invalid force value: 2 0.
+# 
+force -freeze sim:/twoANDNOTORDataFlowLevel/s 1 0
+force -freeze sim:/twoANDNOTORDataFlowLevel/x2 1 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+quit -sim
+# End time: 12:42:48 on Aug 11,2020, Elapsed time: 0:00:49
+# Errors: 2, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project threeANDThreeORGateLevel
+# Compile of threeANDThreeORGateLevel.v failed with 2 errors.
+# Compile of threeANDThreeORGateLevel.v failed with 1 errors.
+# Compile of threeANDThreeORGateLevel.v was successful.
+vsim work.threeANDThreeORGateLevel
+# vsim work.threeANDThreeORGateLevel 
+# Start time: 12:56:06 on Aug 11,2020
+# Loading work.threeANDThreeORGateLevel
+add wave -position end  sim:/threeANDThreeORGateLevel/x1
+add wave -position end  sim:/threeANDThreeORGateLevel/x2
+add wave -position end  sim:/threeANDThreeORGateLevel/x3
+add wave -position end  sim:/threeANDThreeORGateLevel/x4
+add wave -position end  sim:/threeANDThreeORGateLevel/f
+force -freeze sim:/threeANDThreeORGateLevel/x1 1 0
+force -freeze sim:/threeANDThreeORGateLevel/x2 1 0
+force -freeze sim:/threeANDThreeORGateLevel/x3 1 0
+force -freeze sim:/threeANDThreeORGateLevel/x4 1 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/threeANDThreeORGateLevel/x2 0 0
+run
+force -freeze sim:/threeANDThreeORGateLevel/x1 0 0
+run
+run
+run
+force -freeze sim:/threeANDThreeORGateLevel/x2 1 0
+run
+force -freeze sim:/threeANDThreeORGateLevel/x1 1 0
+run
+force -freeze sim:/threeANDThreeORGateLevel/x1 0 0
+force -freeze sim:/threeANDThreeORGateLevel/x3 0 0
+run
+force -freeze sim:/threeANDThreeORGateLevel/x4 0 0
+run
+force -freeze sim:/threeANDThreeORGateLevel/f 0 0
+noforce sim:/threeANDThreeORGateLevel/f
+noforce sim:/threeANDThreeORGateLevel/x4
+noforce sim:/threeANDThreeORGateLevel/x2
+noforce sim:/threeANDThreeORGateLevel/x3
+noforce sim:/threeANDThreeORGateLevel/x1
+run
+force -freeze sim:/threeANDThreeORGateLevel/f 0 0
+run
+run
+
+quit -sim
+# End time: 13:01:53 on Aug 11,2020, Elapsed time: 0:05:47
+# Errors: 0, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project threeANDThreeORDataFlowLevel
+# Compile of threeANDThreeORDataFlowLevel.v was successful.
+vsim work.threeANDThreeORDataFlowLevel
+# vsim work.threeANDThreeORDataFlowLevel 
+# Start time: 13:09:52 on Aug 11,2020
+# Loading work.threeANDThreeORDataFlowLevel
+add wave -position end  sim:/threeANDThreeORDataFlowLevel/x1
+add wave -position end  sim:/threeANDThreeORDataFlowLevel/x3
+add wave -position end  sim:/threeANDThreeORDataFlowLevel/x2
+add wave -position end  sim:/threeANDThreeORDataFlowLevel/x4
+add wave -position end  sim:/threeANDThreeORDataFlowLevel/f
+force -freeze sim:/threeANDThreeORDataFlowLevel/x1 1 0
+force -freeze sim:/threeANDThreeORDataFlowLevel/x3 0 0
+force -freeze sim:/threeANDThreeORDataFlowLevel/x2 0 0
+force -freeze sim:/threeANDThreeORDataFlowLevel/x4 0 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/threeANDThreeORDataFlowLevel/x1 0 0
+run
+force -freeze sim:/threeANDThreeORDataFlowLevel/x4 1 0
+force -freeze sim:/threeANDThreeORDataFlowLevel/x2 1 0
+run
+force -freeze sim:/threeANDThreeORDataFlowLevel/x3 1 0
+force -freeze sim:/threeANDThreeORDataFlowLevel/x1 1 0
+run
+force -freeze sim:/threeANDThreeORDataFlowLevel/f 0 0
+run
+run
+run
+run
+run
+force -freeze sim:/threeANDThreeORDataFlowLevel/f 1 0
+run
+run
+run
+run
+run
+quit -sim
+# End time: 13:13:05 on Aug 11,2020, Elapsed time: 0:03:13
+# Errors: 0, Warnings: 8
+# Compile of threeANDThreeORDataFlowLevel.v was successful.

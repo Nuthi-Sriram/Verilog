@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/HalfAdderGateLevel
+vHalfAdderGateLevel
+!s110 1597128911
+!i10b 1
+!s100 <50Vb=N6X1MZ4ZUOGTfz92
+InMPSkzRM4j6hS`niDl[<?0
+VDg1SIo80bB@j0V0VzS_@n1
+d/home/sriram/Documents/Verilog/HalfAdderDataFlowLevel
+w1597128900
+8/home/sriram/Documents/Verilog/HalfAdderDataFlowLevel/HalfAdderDataFlowLevel.v
+F/home/sriram/Documents/Verilog/HalfAdderDataFlowLevel/HalfAdderDataFlowLevel.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1597128911.000000
+!s107 /home/sriram/Documents/Verilog/HalfAdderDataFlowLevel/HalfAdderDataFlowLevel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/HalfAdderDataFlowLevel/HalfAdderDataFlowLevel.v|
+!i113 1
+o-work work
+tCvgOpt 0
+n@half@adder@gate@level
