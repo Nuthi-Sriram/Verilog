@@ -1,0 +1,129 @@
+# Loading project alu
+# Compile of enc4to2.v was successful.
+vsim work.enc4to2
+# vsim work.enc4to2 
+# Start time: 12:27:33 on Sep 01,2020
+# Loading work.enc4to2
+add wave -position end  sim:/enc4to2/W
+add wave -position end  sim:/enc4to2/Y
+force -freeze sim:/enc4to2/W 0001 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/enc4to2/W 1000 0
+run
+# Compile of dec2to4.v was successful.
+vsim work.dec2to4
+# End time: 12:29:44 on Sep 01,2020, Elapsed time: 0:02:11
+# Errors: 0, Warnings: 8
+# vsim work.dec2to4 
+# Start time: 12:29:44 on Sep 01,2020
+# Loading work.dec2to4
+add wave -position end  sim:/dec2to4/W
+add wave -position end  sim:/dec2to4/En
+add wave -position end  sim:/dec2to4/Y
+force -freeze sim:/dec2to4/En 1 0
+force -freeze sim:/dec2to4/W 000 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/dec2to4/W 01 0
+run
+run
+# Compile of fouristoOneMuxUsingConditionalStatement.v was successful.
+vsim work.fouristoOneMuxUsingConditionalStatement
+# End time: 12:33:11 on Sep 01,2020, Elapsed time: 0:03:27
+# Errors: 0, Warnings: 8
+# vsim work.fouristoOneMuxUsingConditionalStatement 
+# Start time: 12:33:11 on Sep 01,2020
+# Loading work.fouristoOneMuxUsingConditionalStatement
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/i0
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/i1
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/i2
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/i3
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/s0
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/s1
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/out
+force -freeze sim:/fouristoOneMuxUsingConditionalStatement/s0 0 0
+force -freeze sim:/fouristoOneMuxUsingConditionalStatement/s1 1 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+vsim work.fouristoOneMuxUsingConditionalStatement
+# End time: 12:34:01 on Sep 01,2020, Elapsed time: 0:00:50
+# Errors: 0, Warnings: 8
+# vsim work.fouristoOneMuxUsingConditionalStatement 
+# Start time: 12:34:01 on Sep 01,2020
+# Loading work.fouristoOneMuxUsingConditionalStatement
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/i0
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/i1
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/i2
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/i3
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/s0
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/s1
+add wave -position end  sim:/fouristoOneMuxUsingConditionalStatement/out
+force -freeze sim:/fouristoOneMuxUsingConditionalStatement/i0 0 0
+force -freeze sim:/fouristoOneMuxUsingConditionalStatement/i1 1 0
+force -freeze sim:/fouristoOneMuxUsingConditionalStatement/i2 0 0
+force -freeze sim:/fouristoOneMuxUsingConditionalStatement/i3 1 0
+force -freeze sim:/fouristoOneMuxUsingConditionalStatement/s0 0 0
+force -freeze sim:/fouristoOneMuxUsingConditionalStatement/s1 1 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# Compile of alu.v was successful.
+vsim work.alu
+# End time: 12:37:55 on Sep 01,2020, Elapsed time: 0:03:54
+# Errors: 0, Warnings: 8
+# vsim work.alu 
+# Start time: 12:37:55 on Sep 01,2020
+# Loading work.alu
+add wave -position end  sim:/alu/S
+add wave -position end  sim:/alu/A
+add wave -position end  sim:/alu/B
+add wave -position end  sim:/alu/F
+force -freeze sim:/alu/S 000 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/alu/A 0001 0
+force -freeze sim:/alu/B 0001 0
+force -freeze sim:/alu/S 010 0
+force -freeze sim:/alu/S 011 0
+run
+force -freeze sim:/alu/A 0001 0
+force -freeze sim:/alu/B 0001 0
+run
+run
+run
+run

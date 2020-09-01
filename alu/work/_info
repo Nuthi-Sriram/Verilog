@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/enc4to2
+valu
+!s110 1598944066
+!i10b 1
+!s100 ObQ6aRPin>VD18=SLnTH^1
+ImQoUc>VKcj:XV^mfGO]3]3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 d/home/sriram/Documents/Verilog/alu
+w1598942676
+8/home/sriram/Documents/Verilog/alu/alu.v
+F/home/sriram/Documents/Verilog/alu/alu.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1598944066.000000
+!s107 /home/sriram/Documents/Verilog/alu/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/alu/alu.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vdec2to4
+!s110 1598943576
+!i10b 1
+!s100 Lce>1PAXX2GXAEOcHUk:o3
+Ijl0X81ATMnl`NQm?F1C=80
+R0
+R1
+w1598940999
+8/home/sriram/Documents/Verilog/dec2to4/dec2to4.v
+F/home/sriram/Documents/Verilog/dec2to4/dec2to4.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1598943575.000000
+!s107 /home/sriram/Documents/Verilog/dec2to4/dec2to4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/dec2to4/dec2to4.v|
+!i113 1
+R3
+R4
+venc4to2
+!s110 1598943448
+!i10b 1
+!s100 nQFzSXD<eDeShjQIDCAej3
+IzhlCWn;bjN`mYh=D8jSe63
+R0
+R1
+w1598941555
+8/home/sriram/Documents/Verilog/enc4to2/enc4to2.v
+F/home/sriram/Documents/Verilog/enc4to2/enc4to2.v
+L0 6
+R2
+r1
+!s85 0
+31
+!s108 1598943448.000000
+!s107 /home/sriram/Documents/Verilog/enc4to2/enc4to2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/enc4to2/enc4to2.v|
+!i113 1
+R3
+R4
+vfouristoOneMuxUsingConditionalStatement
+!s110 1598943783
+!i10b 1
+!s100 `6OD=c[5DD3on_7@AOec?2
+IJV^3ZInT`UV69G6KDY?WA0
+R0
+R1
+w1598337358
+8/home/sriram/Documents/Verilog/fouristoOneMuxUsingConditionalStatement/fouristoOneMuxUsingConditionalStatement.v
+F/home/sriram/Documents/Verilog/fouristoOneMuxUsingConditionalStatement/fouristoOneMuxUsingConditionalStatement.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1598943783.000000
+!s107 /home/sriram/Documents/Verilog/fouristoOneMuxUsingConditionalStatement/fouristoOneMuxUsingConditionalStatement.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/fouristoOneMuxUsingConditionalStatement/fouristoOneMuxUsingConditionalStatement.v|
+!i113 1
+R3
+R4
+nfouristo@one@mux@using@conditional@statement
