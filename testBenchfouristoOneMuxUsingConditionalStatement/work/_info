@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/demuxOnetoFour
+vfouristoOneMuxUsingConditionalStatement
+!s110 1600753222
+!i10b 1
+!s100 `6OD=c[5DD3on_7@AOec?2
+IJV^3ZInT`UV69G6KDY?WA0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 d/home/sriram/Documents/Verilog/testBenchfouristoOneMuxUsingConditionalStatement
+w1598337358
+8/home/sriram/Documents/Verilog/fouristoOneMuxUsingConditionalStatement/fouristoOneMuxUsingConditionalStatement.v
+F/home/sriram/Documents/Verilog/fouristoOneMuxUsingConditionalStatement/fouristoOneMuxUsingConditionalStatement.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1600753221.000000
+!s107 /home/sriram/Documents/Verilog/fouristoOneMuxUsingConditionalStatement/fouristoOneMuxUsingConditionalStatement.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/fouristoOneMuxUsingConditionalStatement/fouristoOneMuxUsingConditionalStatement.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+nfouristo@one@mux@using@conditional@statement
+vtestBenchfouristoOneMuxUsingConditionalStatement
+!s110 1600753617
+!i10b 1
+!s100 j`HiA;>>^H9J;bIV]ORb<0
+IFL@EjjJMIG19ZW0iS?2<W2
+R0
+R1
+w1600753609
+8/home/sriram/Documents/Verilog/testBenchfouristoOneMuxUsingConditionalStatement/testBenchfouristoOneMuxUsingConditionalStatement.v
+F/home/sriram/Documents/Verilog/testBenchfouristoOneMuxUsingConditionalStatement/testBenchfouristoOneMuxUsingConditionalStatement.v
+L0 5
+R2
+r1
+!s85 0
+31
+!s108 1600753617.000000
+!s107 /home/sriram/Documents/Verilog/testBenchfouristoOneMuxUsingConditionalStatement/testBenchfouristoOneMuxUsingConditionalStatement.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/testBenchfouristoOneMuxUsingConditionalStatement/testBenchfouristoOneMuxUsingConditionalStatement.v|
+!i113 1
+R3
+R4
+ntest@benchfouristo@one@mux@using@conditional@statement
