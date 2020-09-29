@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/fourBitFullAdder
+vfull_adder
+Z0 !s110 1601366636
+!i10b 1
+!s100 mznQH[Nog_^:<0K^Io6LL1
+IcmBSQN7]^Hjhlbca`9kni1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/sriram/Documents/Verilog/multibit_adder_tb
+w1601366609
+8/home/sriram/Documents/Verilog/multibit_adder_tb/full_adder.v
+F/home/sriram/Documents/Verilog/multibit_adder_tb/full_adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1601366636.000000
+!s107 /home/sriram/Documents/Verilog/multibit_adder_tb/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/multibit_adder_tb/full_adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vhalf_adder
+R0
+!i10b 1
+!s100 8T2NDm>8g2hbn^;_1ILHe2
+IBV0iIM>XSzkT_jW9Sj9;j0
+R1
+R2
+w1601366633
+8/home/sriram/Documents/Verilog/multibit_adder_tb/half_adder.v
+F/home/sriram/Documents/Verilog/multibit_adder_tb/half_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/multibit_adder_tb/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/multibit_adder_tb/half_adder.v|
+!i113 1
+R5
+R6
+vmultibit_adder
+R0
+!i10b 1
+!s100 ?2Mn?G8U;RnbJFBM`YC]R3
+I08dmn^Ig<nJHnI5MD[BPC2
+R1
+R2
+w1601366573
+8/home/sriram/Documents/Verilog/multibit_adder_tb/multibit_adder.v
+F/home/sriram/Documents/Verilog/multibit_adder_tb/multibit_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/multibit_adder_tb/multibit_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/multibit_adder_tb/multibit_adder.v|
+!i113 1
+R5
+R6
+vmultibit_adder_tb
+R0
+!i10b 1
+!s100 OcLa`l7cbJmbk3jJP?ASB3
+IIO1UBPbnUzFooc_<Ik`?Y0
+R1
+R2
+w1601366536
+8/home/sriram/Documents/Verilog/multibit_adder_tb/multibit_adder_tb.v
+F/home/sriram/Documents/Verilog/multibit_adder_tb/multibit_adder_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/multibit_adder_tb/multibit_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/multibit_adder_tb/multibit_adder_tb.v|
+!i113 1
+R5
+R6

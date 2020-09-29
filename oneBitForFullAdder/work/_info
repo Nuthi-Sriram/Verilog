@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/fullAdderImplementedUsinghalfAdder
+vfulladd
+Z0 !s110 1601362433
+!i10b 1
+!s100 ihSMN:z?UdlA:haTFgXOf3
+I^XeSoi^OaM^K;=`;1>]2:1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/sriram/Documents/Verilog/oneBitForFullAdder
+w1601359516
+8/home/sriram/Documents/Verilog/oneBitForFullAdder/oneBitForFullAdder.v
+F/home/sriram/Documents/Verilog/oneBitForFullAdder/oneBitForFullAdder.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1601362433.000000
+!s107 /home/sriram/Documents/Verilog/oneBitForFullAdder/oneBitForFullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/oneBitForFullAdder/oneBitForFullAdder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtestBenchoneBitFullAdder
+R0
+!i10b 1
+!s100 RXa:mkne7=DMdfl[UG:BM1
+IB^5m25`m<MJc>jZ75_>`=2
+R1
+R2
+w1601362430
+8/home/sriram/Documents/Verilog/oneBitForFullAdder/testBenchoneBitFullAdder.v
+F/home/sriram/Documents/Verilog/oneBitForFullAdder/testBenchoneBitFullAdder.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/oneBitForFullAdder/testBenchoneBitFullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/oneBitForFullAdder/testBenchoneBitFullAdder.v|
+!i113 1
+R5
+R6
+ntest@benchone@bit@full@adder

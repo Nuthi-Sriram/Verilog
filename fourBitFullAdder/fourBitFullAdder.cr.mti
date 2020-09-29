@@ -1,0 +1,29 @@
+/home/sriram/Documents/Verilog/fourBitFullAdder/testBenchfourBitFullAdder.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/fourBitFullAdder/testBenchfourBitFullAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testBenchfourBitFullAdder
+
+Top level modules:
+	testBenchfourBitFullAdder
+
+} {} {}} /home/sriram/Documents/Verilog/fullAdderImplementedUsinghalfAdder/HalfAdderGateLevel.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/fullAdderImplementedUsinghalfAdder/HalfAdderGateLevel.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HalfAdderGateLevel
+
+Top level modules:
+	HalfAdderGateLevel
+
+} {} {}} /home/sriram/Documents/Verilog/fullAdderImplementedUsinghalfAdder/fullAdderImplementedUsinghalfAdder.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/fullAdderImplementedUsinghalfAdder/fullAdderImplementedUsinghalfAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fullAdderImplementedUsinghalfAdder
+
+Top level modules:
+	fullAdderImplementedUsinghalfAdder
+
+} {} {}} /home/sriram/Documents/Verilog/fourBitFullAdder/fourBitFullAdder.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/fourBitFullAdder/fourBitFullAdder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fourBitFullAdder
+
+Top level modules:
+	fourBitFullAdder
+
+} {} {}}
