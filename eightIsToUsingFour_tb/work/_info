@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb
+veightIsToUsingFour_tb
+!s110 1601967599
+!i10b 1
+!s100 C;R[POBhNT;1Pcjd^Rb_>0
+IK`g]?YlU5JFMcGo3?EE1a3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 d/home/sriram/Documents/Verilog/eightIsToUsingFour_tb
+w1601966334
+8/home/sriram/Documents/Verilog/eightIsToUsingFour_tb/eightIsToUsingFour_tb.v
+F/home/sriram/Documents/Verilog/eightIsToUsingFour_tb/eightIsToUsingFour_tb.v
+L0 2
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1601967599.000000
+!s107 /home/sriram/Documents/Verilog/eightIsToUsingFour_tb/eightIsToUsingFour_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/eightIsToUsingFour_tb/eightIsToUsingFour_tb.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+neight@is@to@using@four_tb
+vmux2X1
+Z5 !s110 1601967600
+!i10b 1
+!s100 UeWGZn9=Ic88<oaC<8_fz2
+Ia_][NHfKC4h22]SQP;Q?K3
+R0
+R1
+w1601967552
+8/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux2X1.v
+F/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux2X1.v
+L0 3
+R2
+r1
+!s85 0
+31
+Z6 !s108 1601967600.000000
+!s107 /home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux2X1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux2X1.v|
+!i113 1
+R3
+R4
+nmux2@x1
+vmux4X1
+R5
+!i10b 1
+!s100 X60X<Hc32d`OAg9`[MN`^1
+IkgA2ne@SU<8<oagLRG@0N2
+R0
+R1
+w1601965751
+8/home/sriram/Documents/Verilog/eightIsToUsingFour_tb/mux4X1.v
+F/home/sriram/Documents/Verilog/eightIsToUsingFour_tb/mux4X1.v
+L0 2
+R2
+r1
+!s85 0
+31
+R6
+!s107 /home/sriram/Documents/Verilog/eightIsToUsingFour_tb/mux4X1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/eightIsToUsingFour_tb/mux4X1.v|
+!i113 1
+R3
+R4
+nmux4@x1
+vmux8X1Using4X1
+R5
+!i10b 1
+!s100 La4QjI[K2>GBVSKCOl1]f3
+ImW;jSY2VkUVBl_C6YO3Ag1
+R0
+R1
+w1601967596
+8/home/sriram/Documents/Verilog/eightIsToUsingFour_tb/mux8X1Using4X1.v
+F/home/sriram/Documents/Verilog/eightIsToUsingFour_tb/mux8X1Using4X1.v
+L0 3
+R2
+r1
+!s85 0
+31
+R6
+!s107 /home/sriram/Documents/Verilog/eightIsToUsingFour_tb/mux8X1Using4X1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/eightIsToUsingFour_tb/mux8X1Using4X1.v|
+!i113 1
+R3
+R4
+nmux8@x1@using4@x1
