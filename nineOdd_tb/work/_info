@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/eightIsToUsingTwo_tb
+vnineOdd
+Z0 !s110 1603173998
+!i10b 1
+!s100 MEZkC`bKUWYk;I=K]1a[A2
+IgXaRLDK<90DQ_jL;JfU1X3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/sriram/Documents/Verilog/nineOdd_tb
+w1603173057
+8/home/sriram/Documents/Verilog/nineOdd_tb/nineOdd.v
+F/home/sriram/Documents/Verilog/nineOdd_tb/nineOdd.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1603173998.000000
+!s107 /home/sriram/Documents/Verilog/nineOdd_tb/nineOdd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/nineOdd_tb/nineOdd.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+nnine@odd
+vnineOdd_tb
+R0
+!i10b 1
+!s100 9bSjl;]oLWGjX]>^NSG7`0
+I^TI12Mfd4_aA@3=aA52>:0
+R1
+R2
+w1603173992
+8/home/sriram/Documents/Verilog/nineOdd_tb/nineOdd_tb.v
+F/home/sriram/Documents/Verilog/nineOdd_tb/nineOdd_tb.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/nineOdd_tb/nineOdd_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/nineOdd_tb/nineOdd_tb.v|
+!i113 1
+R5
+R6
+nnine@odd_tb
+vthreeOdd
+R0
+!i10b 1
+!s100 1;@VbHnjJUHN@KJJ]1?oF3
+IH9AQ>0c1zg;`>IAeW5N9J2
+R1
+R2
+w1603172927
+8/home/sriram/Documents/Verilog/nineOdd_tb/threeOdd.v
+F/home/sriram/Documents/Verilog/nineOdd_tb/threeOdd.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/nineOdd_tb/threeOdd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/nineOdd_tb/threeOdd.v|
+!i113 1
+R5
+R6
+nthree@odd

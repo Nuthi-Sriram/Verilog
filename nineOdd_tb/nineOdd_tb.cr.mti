@@ -1,0 +1,22 @@
+/home/sriram/Documents/Verilog/nineOdd_tb/threeOdd.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/nineOdd_tb/threeOdd.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module threeOdd
+
+Top level modules:
+	threeOdd
+
+} {} {}} /home/sriram/Documents/Verilog/nineOdd_tb/nineOdd.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/nineOdd_tb/nineOdd.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module nineOdd
+
+Top level modules:
+	nineOdd
+
+} {} {}} /home/sriram/Documents/Verilog/nineOdd_tb/nineOdd_tb.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/nineOdd_tb/nineOdd_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module nineOdd_tb
+
+Top level modules:
+	nineOdd_tb
+
+} {} {}}
