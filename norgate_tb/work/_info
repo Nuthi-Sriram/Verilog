@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/nandgate_tb
+vnorgate
+Z0 !s110 1599546454
+!i10b 1
+!s100 1U35FZ4KDOLIc5Y0EJW[g0
+I?z65nLEL[j2UZcMAR27I70
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/sriram/Documents/Verilog/norgate_tb
+w1599546448
+8/home/sriram/Documents/Verilog/norgate_tb/norgate.v
+F/home/sriram/Documents/Verilog/norgate_tb/norgate.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1599546454.000000
+!s107 /home/sriram/Documents/Verilog/norgate_tb/norgate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/norgate_tb/norgate.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vnorgate_tb
+R0
+!i10b 1
+!s100 Z=O^8F_jkj4CXj^>[z4H;1
+IZ9CUoNd923VigD0FiB6m@2
+R1
+R2
+w1599546331
+8/home/sriram/Documents/Verilog/norgate_tb/norgate_tb.v
+F/home/sriram/Documents/Verilog/norgate_tb/norgate_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/norgate_tb/norgate_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/norgate_tb/norgate_tb.v|
+!i113 1
+R5
+R6

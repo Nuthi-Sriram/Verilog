@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/alu
+vandgate
+Z0 !s110 1599544777
+!i10b 1
+!s100 V1bAjfZTg9E<ShBoBRDDW3
+Ij;G8cQVHl:R16UBoSCAAU2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/sriram/Documents/Verilog/andgate_tb
+w1596524345
+8/home/sriram/Documents/Verilog/AND Gate Verilog Code/AND Gate.v
+F/home/sriram/Documents/Verilog/AND Gate Verilog Code/AND Gate.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1599544777.000000
+!s107 /home/sriram/Documents/Verilog/AND Gate Verilog Code/AND Gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/AND Gate Verilog Code/AND Gate.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vandgate_tb
+R0
+!i10b 1
+!s100 <ICJXAD5=_mBgXE;g<P0z3
+I@f:GjibXfm2@1lT9G>9`C1
+R1
+R2
+w1599544773
+8/home/sriram/Documents/Verilog/andgate_tb/andgate_tb.v
+F/home/sriram/Documents/Verilog/andgate_tb/andgate_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1599544776.000000
+!s107 /home/sriram/Documents/Verilog/andgate_tb/andgate_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/andgate_tb/andgate_tb.v|
+!i113 1
+R4
+R5
