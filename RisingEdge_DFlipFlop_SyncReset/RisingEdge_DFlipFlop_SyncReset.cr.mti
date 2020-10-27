@@ -1,0 +1,16 @@
+/home/sriram/Documents/Verilog/RisingEdge_DFlipFlop_SyncReset/RisingEdge_DFlipFlop_SyncReset.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/RisingEdge_DFlipFlop_SyncReset/RisingEdge_DFlipFlop_SyncReset.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RisingEdge_DFlipFlop_SyncReset
+
+Top level modules:
+	RisingEdge_DFlipFlop_SyncReset
+
+} {} {}} /home/sriram/Documents/Verilog/RisingEdge_DFlipFlop_SyncReset/tb_RisingEdge_DFlipFlop_SyncReset.v {2 {vlog -work work -stats=none /home/sriram/Documents/Verilog/RisingEdge_DFlipFlop_SyncReset/tb_RisingEdge_DFlipFlop_SyncReset.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+** Warning: /home/sriram/Documents/Verilog/RisingEdge_DFlipFlop_SyncReset/tb_RisingEdge_DFlipFlop_SyncReset.v(2): (vlog-2283) Extra semicolon in $unit (global) scope.
+-- Compiling module tb_RisingEdge_DFlipFlop_SyncReset
+
+Top level modules:
+	tb_RisingEdge_DFlipFlop_SyncReset
+
+} {} {}}
