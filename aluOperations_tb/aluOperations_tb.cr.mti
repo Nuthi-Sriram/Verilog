@@ -1,0 +1,15 @@
+/home/sriram/Documents/Verilog/aluOperations_tb/aluOperations.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module aluOperations
+
+Top level modules:
+	aluOperations
+
+} {} {}} /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations_tb.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module aluOperations_tb
+
+Top level modules:
+	aluOperations_tb
+
+} {} {}}
