@@ -1,0 +1,313 @@
+# Loading project eightIsToUsingFour_tb
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project eightIsToUsingTwo_tb
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project nineOdd_tb
+# Compile of nineOdd_tb.v was successful.
+# Compile of threeOdd.v was successful.
+# Compile of nineOdd.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.nineOdd_tb
+# vsim work.nineOdd_tb 
+# Start time: 11:26:58 on Oct 20,2020
+# Loading work.nineOdd_tb
+# Loading work.nineOdd
+# Loading work.threeOdd
+# ** Error: (vsim-3063) /home/sriram/Documents/Verilog/nineOdd_tb/nineOdd_tb.v(13): Port 'q' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /nineOdd_tb/my_mux File: /home/sriram/Documents/Verilog/nineOdd_tb/nineOdd.v
+# Error loading design
+# End time: 11:26:58 on Oct 20,2020, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of nineOdd_tb.v was successful.
+# Compile of threeOdd.v was successful.
+# Compile of nineOdd.v was successful.
+# 3 compiles, 0 failed with no errors.
+# Compile of nineOdd_tb.v was successful.
+# Compile of threeOdd.v was successful.
+# Compile of nineOdd.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.nineOdd_tb
+# vsim work.nineOdd_tb 
+# Start time: 11:30:21 on Oct 20,2020
+# Loading work.nineOdd_tb
+# Loading work.nineOdd
+# Loading work.threeOdd
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# d = 00001111  |  A =   x  |  q = x
+quit -sim
+# End time: 11:31:37 on Oct 20,2020, Elapsed time: 0:01:16
+# Errors: 0, Warnings: 8
+# Compile of nineOdd_tb.v was successful.
+# Compile of threeOdd.v was successful.
+# Compile of nineOdd.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.nineOdd_tb
+# vsim work.nineOdd_tb 
+# Start time: 11:32:50 on Oct 20,2020
+# Loading work.nineOdd_tb
+# Loading work.nineOdd
+# Loading work.threeOdd
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# -----------------------------------------
+# d = 000001111  |  A =   x  |  output = x
+quit -sim
+# End time: 11:33:26 on Oct 20,2020, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 8
+# Compile of nineOdd_tb.v was successful.
+# Compile of threeOdd.v was successful.
+# Compile of nineOdd.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.nineOdd_tb
+# vsim work.nineOdd_tb 
+# Start time: 11:33:56 on Oct 20,2020
+# Loading work.nineOdd_tb
+# Loading work.nineOdd
+# Loading work.threeOdd
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# d = 000000000  |  A =   x  |  output = x
+# -----------------------------------------
+# d = 000000001  |  A =   x  |  output = x
+# -----------------------------------------
+# d = 000000010  |  A =   x  |  output = x
+# -----------------------------------------
+# d = 000000011  |  A =   x  |  output = x
+# -----------------------------------------
+# d = 000000100  |  A =   x  |  output = x
+# -----------------------------------------
+# d = 000000101  |  A =   x  |  output = x
+# -----------------------------------------
+# d = 000000110  |  A =   x  |  output = x
+# -----------------------------------------
+# d = 000000111  |  A =   x  |  output = x
+# -----------------------------------------
+# d = 000001000  |  A =   x  |  output = x
+# -----------------------------------------
+# d = 000001001  |  A =   x  |  output = x
+quit -sim
+# End time: 11:34:14 on Oct 20,2020, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 8
+# Compile of nineOdd_tb.v was successful.
+# Compile of threeOdd.v was successful.
+# Compile of nineOdd.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.nineOdd_tb
+# vsim work.nineOdd_tb 
+# Start time: 11:34:38 on Oct 20,2020
+# Loading work.nineOdd_tb
+# Loading work.nineOdd
+# Loading work.threeOdd
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# d = 000000000  |  A =   0  |  output = x
+# -----------------------------------------
+# d = 000000001  |  A =   1  |  output = x
+# -----------------------------------------
+# d = 000000010  |  A =   2  |  output = x
+# -----------------------------------------
+# d = 000000011  |  A =   3  |  output = x
+# -----------------------------------------
+# d = 000000100  |  A =   4  |  output = x
+# -----------------------------------------
+# d = 000000101  |  A =   5  |  output = x
+# -----------------------------------------
+# d = 000000110  |  A =   6  |  output = x
+# -----------------------------------------
+# d = 000000111  |  A =   7  |  output = x
+# -----------------------------------------
+# d = 000001000  |  A =   8  |  output = x
+# -----------------------------------------
+# d = 000001001  |  A =   9  |  output = x
+quit -sim
+# End time: 11:34:56 on Oct 20,2020, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 8
+# Compile of nineOdd_tb.v was successful.
+# Compile of threeOdd.v was successful.
+# Compile of nineOdd.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.nineOdd_tb
+# vsim work.nineOdd_tb 
+# Start time: 11:36:41 on Oct 20,2020
+# Loading work.nineOdd_tb
+# Loading work.nineOdd
+# Loading work.threeOdd
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# d = 000000000  |  A = 000000000  |  output = 0
+# -----------------------------------------
+# d = 000000001  |  A = 000000001  |  output = 1
+# -----------------------------------------
+# d = 000000010  |  A = 000000010  |  output = 1
+# -----------------------------------------
+# d = 000000011  |  A = 000000011  |  output = 0
+# -----------------------------------------
+# d = 000000100  |  A = 000000100  |  output = 1
+# -----------------------------------------
+# d = 000000101  |  A = 000000101  |  output = 0
+# -----------------------------------------
+# d = 000000110  |  A = 000000110  |  output = 0
+# -----------------------------------------
+# d = 000000111  |  A = 000000111  |  output = 1
+# -----------------------------------------
+# d = 000001000  |  A = 000001000  |  output = 1
+# -----------------------------------------
+# d = 000001001  |  A = 000001001  |  output = 0
+quit -sim
+# End time: 11:41:50 on Oct 20,2020, Elapsed time: 0:05:09
+# Errors: 0, Warnings: 8
+quit -sim
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project eightIsToUsingTwo_tb
+# Compile of eightIsToUsingTwo_tb.v was successful.
+# Compile of mux2X1.v was successful.
+# Compile of mux8X1Using2X1.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.eightIsToUsingTwo_tb
+# vsim work.eightIsToUsingTwo_tb 
+# Start time: 12:02:14 on Oct 20,2020
+# Loading work.eightIsToUsingTwo_tb
+# Loading work.mux8X1Using2X1
+# Loading work.mux2X1
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# d = 00000000  |  select = 0  |  q = 0
+# d = 00000000  |  select = 1  |  q = 0
+# d = 00000000  |  select = 2  |  q = 0
+# -----------------------------------------
+# d = 00000001  |  select = 0  |  q = 1
+# d = 00000001  |  select = 1  |  q = 0
+# d = 00000001  |  select = 2  |  q = 0
+# -----------------------------------------
+# d = 00000010  |  select = 0  |  q = 0
+# d = 00000010  |  select = 1  |  q = 1
+# d = 00000010  |  select = 2  |  q = 0
+# -----------------------------------------
+# d = 00000011  |  select = 0  |  q = 1
+# d = 00000011  |  select = 1  |  q = 1
+# d = 00000011  |  select = 2  |  q = 0
+# -----------------------------------------
+# d = 00000100  |  select = 0  |  q = 0
+# d = 00000100  |  select = 1  |  q = 0
+# d = 00000100  |  select = 2  |  q = 1
+# -----------------------------------------
+# d = 00000101  |  select = 0  |  q = 1
+# d = 00000101  |  select = 1  |  q = 0
+# d = 00000101  |  select = 2  |  q = 1
+# -----------------------------------------
+# d = 00000110  |  select = 0  |  q = 0
+# d = 00000110  |  select = 1  |  q = 1
+# d = 00000110  |  select = 2  |  q = 1
+# -----------------------------------------
+# d = 00000111  |  select = 0  |  q = 1
+# d = 00000111  |  select = 1  |  q = 1
+# d = 00000111  |  select = 2  |  q = 1
+# -----------------------------------------
+# d = 00001000  |  select = 0  |  q = 0
+# d = 00001000  |  select = 1  |  q = 0
+# d = 00001000  |  select = 2  |  q = 0
+# -----------------------------------------
+# d = 00001001  |  select = 0  |  q = 1
+# d = 00001001  |  select = 1  |  q = 0
+# d = 00001001  |  select = 2  |  q = 0
+# -----------------------------------------
+# d = 00001010  |  select = 0  |  q = 0
+# d = 00001010  |  select = 1  |  q = 1
+# d = 00001010  |  select = 2  |  q = 0
+# -----------------------------------------
+# d = 00001011  |  select = 0  |  q = 1
+# d = 00001011  |  select = 1  |  q = 1
+# d = 00001011  |  select = 2  |  q = 0
+# -----------------------------------------
+# d = 00001100  |  select = 0  |  q = 0
+# d = 00001100  |  select = 1  |  q = 0
+# d = 00001100  |  select = 2  |  q = 1
+# -----------------------------------------
+# d = 00001101  |  select = 0  |  q = 1
+# d = 00001101  |  select = 1  |  q = 0
+# d = 00001101  |  select = 2  |  q = 1
+# -----------------------------------------
+# d = 00001110  |  select = 0  |  q = 0
+# d = 00001110  |  select = 1  |  q = 1
+# d = 00001110  |  select = 2  |  q = 1
+# -----------------------------------------
+# d = 00001111  |  select = 0  |  q = 1
+# d = 00001111  |  select = 1  |  q = 1
+# d = 00001111  |  select = 2  |  q = 1
+# -----------------------------------------
+# End time: 12:02:25 on Oct 20,2020, Elapsed time: 0:00:11
+# Errors: 0, Warnings: 8

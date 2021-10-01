@@ -1,0 +1,22 @@
+/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux2X1.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux2X1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2X1
+
+Top level modules:
+	mux2X1
+
+} {} {}} /home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/fourIsToUsingTwo_tb.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/fourIsToUsingTwo_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fourIsToUsingTwo_tb
+
+Top level modules:
+	fourIsToUsingTwo_tb
+
+} {} {}} /home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux4X1Using2X1.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux4X1Using2X1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux4X1Using2X1
+
+Top level modules:
+	mux4X1Using2X1
+
+} {} {}}

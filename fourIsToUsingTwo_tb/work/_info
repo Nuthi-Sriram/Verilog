@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/multibit_adder_tb
+vfourIsToUsingTwo_tb
+Z0 !s110 1601965196
+!i10b 1
+!s100 GHUFmc4CWa4jn=B[[bhVT2
+IMzS`Ae]`;XOde5n=5GcVj0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb
+w1601965177
+8/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/fourIsToUsingTwo_tb.v
+F/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/fourIsToUsingTwo_tb.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1601965196.000000
+!s107 /home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/fourIsToUsingTwo_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/fourIsToUsingTwo_tb.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+nfour@is@to@using@two_tb
+vmux2X1
+R0
+!i10b 1
+!s100 `g@Cz@S?k7To^`nPT<N[K3
+ITM3f^B8]mH13c]7OZ;dR?3
+R1
+R2
+w1601963030
+8/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux2X1.v
+F/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux2X1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux2X1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux2X1.v|
+!i113 1
+R5
+R6
+nmux2@x1
+vmux4X1Using2X1
+!s110 1601965197
+!i10b 1
+!s100 k2lezc`g2jf07I9?KdBK@1
+I:lj;`F7J2VU:TmYJAJ<US1
+R1
+R2
+w1601964861
+8/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux4X1Using2X1.v
+F/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux4X1Using2X1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux4X1Using2X1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/fourIsToUsingTwo_tb/mux4X1Using2X1.v|
+!i113 1
+R5
+R6
+nmux4@x1@using2@x1

@@ -1,0 +1,22 @@
+/home/sriram/Documents/Verilog/eightIsToUsingTwo_tb/mux8X1Using2X1.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/eightIsToUsingTwo_tb/mux8X1Using2X1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux8X1Using2X1
+
+Top level modules:
+	mux8X1Using2X1
+
+} {} {}} /home/sriram/Documents/Verilog/eightIsToUsingTwo_tb/mux2X1.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/eightIsToUsingTwo_tb/mux2X1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2X1
+
+Top level modules:
+	mux2X1
+
+} {} {}} /home/sriram/Documents/Verilog/eightIsToUsingTwo_tb/eightIsToUsingTwo_tb.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/eightIsToUsingTwo_tb/eightIsToUsingTwo_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module eightIsToUsingTwo_tb
+
+Top level modules:
+	eightIsToUsingTwo_tb
+
+} {} {}}
