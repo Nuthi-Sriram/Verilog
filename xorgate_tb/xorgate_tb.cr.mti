@@ -1,0 +1,15 @@
+/home/sriram/Documents/Verilog/xorgate_tb/xorgate.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/xorgate_tb/xorgate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module xorgate
+
+Top level modules:
+	xorgate
+
+} {} {}} /home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module xorgate_tb
+
+Top level modules:
+	xorgate_tb
+
+} {} {}}

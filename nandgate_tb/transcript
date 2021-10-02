@@ -1,0 +1,40 @@
+# Loading project nandgate_tb
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project demuxOnetoFour
+# Compile of demuxOnetoFour.v was successful.
+vsim work.demuxOnetoFour
+# vsim work.demuxOnetoFour 
+# Start time: 11:24:04 on Sep 15,2020
+# Loading work.demuxOnetoFour
+add wave -position end  sim:/demuxOnetoFour/Din
+add wave -position end  sim:/demuxOnetoFour/sel
+add wave -position end  sim:/demuxOnetoFour/y0
+add wave -position end  sim:/demuxOnetoFour/y1
+add wave -position end  sim:/demuxOnetoFour/y2
+add wave -position end  sim:/demuxOnetoFour/y3
+force -freeze sim:/demuxOnetoFour/Din 1 0
+force -freeze sim:/demuxOnetoFour/sel 00 0
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+force -freeze sim:/demuxOnetoFour/sel 01 0
+run
+force -freeze sim:/demuxOnetoFour/sel 10 0
+run
+force -freeze sim:/demuxOnetoFour/sel 11 0
+run
+force -freeze sim:/demuxOnetoFour/Din 0 0
+run
+force -freeze sim:/demuxOnetoFour/sel xx 0
+run
+force -freeze sim:/demuxOnetoFour/Din 1 0
+force -freeze sim:/demuxOnetoFour/sel 00 0
+run
+# End time: 11:34:19 on Sep 15,2020, Elapsed time: 0:10:15
+# Errors: 0, Warnings: 8

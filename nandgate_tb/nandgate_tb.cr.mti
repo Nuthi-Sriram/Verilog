@@ -1,0 +1,15 @@
+/home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb.v {1 {vlog -work work -stats=none /home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module nandgate_tb
+
+Top level modules:
+	nandgate_tb
+
+} {} {}} {/home/sriram/Documents/Verilog/Nand Gate/NandGate.v} {1 {vlog -work work -stats=none {/home/sriram/Documents/Verilog/Nand Gate/NandGate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module nandgate
+
+Top level modules:
+	nandgate
+
+} {} {}}

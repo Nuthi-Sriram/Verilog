@@ -1,0 +1,244 @@
+# Loading project andgate_tb
+# Compile of andgate_tb.v was successful.
+# Compile of AND Gate.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.andgate_tb
+# vsim work.andgate_tb 
+# Start time: 11:29:43 on Sep 08,2020
+# Loading work.andgate_tb
+# Loading work.andgate
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, A=0 AND B=0=C=0
+# At time                   10, A=0 AND B=1=C=0
+# At time                   20, A=1 AND B=1=C=1
+# ** Note: $finish    : /home/sriram/Documents/Verilog/andgate_tb/andgate_tb.v(20)
+#    Time: 30 ps  Iteration: 0  Instance: /andgate_tb
+# 1
+# Break in Module andgate_tb at /home/sriram/Documents/Verilog/andgate_tb/andgate_tb.v line 20
+quit -sim
+# End time: 11:30:36 on Sep 08,2020, Elapsed time: 0:00:53
+# Errors: 0, Warnings: 8
+quit -sim
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project xorgate_tb
+# Compile of xorgate_tb.v was successful.
+# Compile of xorgate.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of xorgate_tb.v was successful.
+# Compile of xorgate.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.xorgate_tb
+# vsim work.xorgate_tb 
+# Start time: 11:38:27 on Sep 08,2020
+# Loading work.xorgate_tb
+# Loading work.xorgate
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, A=0 XOR B=0=C=0
+# At time                   10, A=0 XOR B=1=C=1
+# At time                   20, A=1 XOR B=0=C=1
+# At time                   30, A=1 XOR B=1=C=0
+# ** Note: $finish    : /home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb.v(20)
+#    Time: 40 ps  Iteration: 0  Instance: /xorgate_tb
+# 1
+# Break in Module xorgate_tb at /home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb.v line 20
+quit -sim
+# End time: 11:39:58 on Sep 08,2020, Elapsed time: 0:01:31
+# Errors: 0, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project xnorgate_tb
+# Compile of xnorgate_tb.v was successful.
+# Compile of xnorgate.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of xnorgate_tb.v was successful.
+# Compile of xnorgate.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.xnorgate_tb
+# vsim work.xnorgate_tb 
+# Start time: 11:46:29 on Sep 08,2020
+# Loading work.xnorgate_tb
+# Loading work.xnorgate
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, A=0 XNOR B=0=C=1
+# At time                   10, A=0 XNOR B=1=C=0
+# At time                   20, A=1 XNOR B=0=C=0
+# At time                   30, A=1 XNOR B=1=C=1
+# ** Note: $finish    : /home/sriram/Documents/Verilog/xnorgate_tb/xnorgate_tb.v(20)
+#    Time: 40 ps  Iteration: 0  Instance: /xnorgate_tb
+# 1
+# Break in Module xnorgate_tb at /home/sriram/Documents/Verilog/xnorgate_tb/xnorgate_tb.v line 20
+quit -sim
+# End time: 11:47:39 on Sep 08,2020, Elapsed time: 0:01:10
+# Errors: 0, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project nandgate_tb
+# Compile of nandgate_tb.v was successful.
+# Compile of NandGate.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.nandgate_tb
+# vsim work.nandgate_tb 
+# Start time: 11:51:47 on Sep 08,2020
+# Loading work.nandgate_tb
+# Loading work.nandgate
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, A=0 NAND B=0=C=1
+# At time                   10, A=0 NAND B=1=C=1
+# At time                   20, A=1 NAND B=0=C=1
+# At time                   30, A=1 NAND B=1=C=0
+# ** Note: $finish    : /home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb.v(20)
+#    Time: 40 ps  Iteration: 0  Instance: /nandgate_tb
+# 1
+# Break in Module nandgate_tb at /home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb.v line 20
+quit -sim
+# End time: 11:52:34 on Sep 08,2020, Elapsed time: 0:00:47
+# Errors: 0, Warnings: 8
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project norgate_tb
+# Compile of norgate_tb.v was successful.
+# Compile of norgate.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of norgate.v failed with 1 errors.
+# Compile of norgate.v failed with 1 errors.
+# Compile of norgate.v was successful.
+# Compile of norgate_tb.v was successful.
+# Compile of norgate.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.norgate_tb
+# vsim work.norgate_tb 
+# Start time: 11:59:02 on Sep 08,2020
+# Loading work.norgate_tb
+# Loading work.norgate
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, A=0 NOR B=0=C=1
+# At time                   10, A=0 NOR B=1=C=0
+# At time                   20, A=1 NOR B=0=C=0
+# At time                   30, A=1 NOR B=1=C=0
+# ** Note: $finish    : /home/sriram/Documents/Verilog/norgate_tb/norgate_tb.v(21)
+#    Time: 40 ps  Iteration: 0  Instance: /norgate_tb
+# 1
+# Break in Module norgate_tb at /home/sriram/Documents/Verilog/norgate_tb/norgate_tb.v line 21
+quit -sim
+# End time: 12:11:09 on Sep 08,2020, Elapsed time: 0:12:07
+# Errors: 0, Warnings: 8
+project open /home/sriram/Documents/Verilog/andgate_tb/andgate_tb
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project andgate_tb
+vsim work.andgate_tb
+# vsim work.andgate_tb 
+# Start time: 12:11:26 on Sep 08,2020
+# Loading work.andgate_tb
+# Loading work.andgate
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, A=0 AND B=0=C=0
+# At time                   10, A=0 AND B=1=C=0
+# At time                   20, A=1 AND B=1=C=1
+# ** Note: $finish    : /home/sriram/Documents/Verilog/andgate_tb/andgate_tb.v(20)
+#    Time: 30 ps  Iteration: 0  Instance: /andgate_tb
+# 1
+# Break in Module andgate_tb at /home/sriram/Documents/Verilog/andgate_tb/andgate_tb.v line 20
+quit -sim
+# End time: 12:12:06 on Sep 08,2020, Elapsed time: 0:00:40
+# Errors: 0, Warnings: 8
+project open /home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project xorgate_tb
+vsim work.xorgate_tb
+# vsim work.xorgate_tb 
+# Start time: 12:12:20 on Sep 08,2020
+# Loading work.xorgate_tb
+# Loading work.xorgate
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, A=0 XOR B=0=C=0
+# At time                   10, A=0 XOR B=1=C=1
+# At time                   20, A=1 XOR B=0=C=1
+# At time                   30, A=1 XOR B=1=C=0
+# ** Note: $finish    : /home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb.v(20)
+#    Time: 40 ps  Iteration: 0  Instance: /xorgate_tb
+# 1
+# Break in Module xorgate_tb at /home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb.v line 20
+# A time value could not be extracted from the current line
+quit -sim
+# End time: 12:12:49 on Sep 08,2020, Elapsed time: 0:00:29
+# Errors: 0, Warnings: 8
+project open /home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project nandgate_tb
+vsim work.nandgate_tb
+# vsim work.nandgate_tb 
+# Start time: 12:13:05 on Sep 08,2020
+# Loading work.nandgate_tb
+# Loading work.nandgate
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, A=0 NAND B=0=C=1
+# At time                   10, A=0 NAND B=1=C=1
+# At time                   20, A=1 NAND B=0=C=1
+# At time                   30, A=1 NAND B=1=C=0
+# ** Note: $finish    : /home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb.v(20)
+#    Time: 40 ps  Iteration: 0  Instance: /nandgate_tb
+# 1
+# Break in Module nandgate_tb at /home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb.v line 20
+# End time: 12:13:39 on Sep 08,2020, Elapsed time: 0:00:34
+# Errors: 0, Warnings: 8

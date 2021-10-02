@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/xnorgate_tb
+vnandgate
+Z0 !s110 1599546044
+!i10b 1
+!s100 Yga?=99LdW5B30bl8KI`n2
+Ih^Q:0bFD@cCYif`RgS8562
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/sriram/Documents/Verilog/nandgate_tb
+w1596521491
+8/home/sriram/Documents/Verilog/Nand Gate/NandGate.v
+F/home/sriram/Documents/Verilog/Nand Gate/NandGate.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1599546044.000000
+!s107 /home/sriram/Documents/Verilog/Nand Gate/NandGate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/Nand Gate/NandGate.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vnandgate_tb
+R0
+!i10b 1
+!s100 Z4HTCQadl3MkPSgn;:TMX3
+I3X2^[:zhkeXSgndh[T=U60
+R1
+R2
+w1599546038
+8/home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb.v
+F/home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/nandgate_tb/nandgate_tb.v|
+!i113 1
+R5
+R6

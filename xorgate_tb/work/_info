@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/andgate_tb
+vxorgate
+Z0 !s110 1599545283
+!i10b 1
+!s100 6djhA:^no[1oz4I=B_1N62
+Iz>bzgaD]4@88=3DhRhGFY0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/sriram/Documents/Verilog/xorgate_tb
+w1599545185
+8/home/sriram/Documents/Verilog/xorgate_tb/xorgate.v
+F/home/sriram/Documents/Verilog/xorgate_tb/xorgate.v
+L0 4
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1599545283.000000
+!s107 /home/sriram/Documents/Verilog/xorgate_tb/xorgate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/xorgate_tb/xorgate.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vxorgate_tb
+R0
+!i10b 1
+!s100 _EBa1`4`I4aHhHEX3Zkn]3
+IUCh0`B7ahZ_>[VLG<bk9E1
+R1
+R2
+w1599545251
+8/home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb.v
+F/home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1599545282.000000
+!s107 /home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/xorgate_tb/xorgate_tb.v|
+!i113 1
+R4
+R5
