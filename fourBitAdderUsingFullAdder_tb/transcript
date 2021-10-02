@@ -1,0 +1,140 @@
+# Loading project fourBitAdderUsingFullAdder_tb
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project aluOperations_tb
+# Compile of aluOperations_tb.v failed with 8 errors.
+# Compile of aluOperations.v was successful.
+# 2 compiles, 1 failed with 8 errors.
+# Compile of aluOperations_tb.v failed with 8 errors.
+# Compile of aluOperations.v was successful.
+# 2 compiles, 1 failed with 8 errors.
+# Compile of aluOperations_tb.v failed with 8 errors.
+# Compile of aluOperations.v was successful.
+# 2 compiles, 1 failed with 8 errors.
+# Compile of aluOperations_tb.v was successful.
+# Compile of aluOperations.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.aluOperations_tb
+# vsim work.aluOperations_tb 
+# Start time: 11:38:32 on Nov 10,2020
+# Loading work.aluOperations_tb
+# Loading work.aluOperations
+# ** Warning: (vsim-3015) /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations_tb.v(9): [PCDPC] - Port size (4) does not match connection size (1) for port 'A'. The port definition is at: /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /aluOperations_tb/dut File: /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations.v
+# ** Warning: (vsim-3015) /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations_tb.v(9): [PCDPC] - Port size (4) does not match connection size (1) for port 'B'. The port definition is at: /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /aluOperations_tb/dut File: /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations.v
+# ** Warning: (vsim-3015) /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations_tb.v(9): [PCDPC] - Port size (4) does not match connection size (1) for port 'F'. The port definition is at: /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /aluOperations_tb/dut File: /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations.v
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, A=0  B=1 S=3  =F=1 
+# At time                   10, A=0  B=1 S=5  =F=0 
+# At time                   20, A=0  B=1 S=0  =F=1 
+# At time                   30, A=0  B=1 S=1  =F=x 
+# At time                   40, A=0  B=1 S=2  =F=0 
+# At time                   50, A=0  B=1 S=4  =F=0 
+# At time                   60, A=0  B=1 S=6  =F=x 
+# At time                   70, A=0  B=1 S=7  =F=0 
+# ** Note: $finish    : /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations_tb.v(44)
+#    Time: 80 ps  Iteration: 0  Instance: /aluOperations_tb
+# 1
+# Break in Module aluOperations_tb at /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations_tb.v line 44
+quit -sim
+# End time: 11:40:02 on Nov 10,2020, Elapsed time: 0:01:30
+# Errors: 0, Warnings: 11
+project open /home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourBitAdderUsingFullAdder_tb
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project fourBitAdderUsingFullAdder_tb
+# Compile of fourBitAdderUsingFullAdder_tb.v was successful.
+# Compile of full_adder.v was successful.
+# Compile of half_adder.v was successful.
+# Compile of fourbit_adder.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.fourBitAdderUsingFullAdder_tb
+# vsim work.fourBitAdderUsingFullAdder_tb 
+# Start time: 11:55:37 on Nov 10,2020
+# Loading work.fourBitAdderUsingFullAdder_tb
+# Loading work.fourbit_adder
+# Loading work.full_adder
+# Loading work.half_adder
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, a= 6, b= 3, c_in=0   =sum= 9, c_out=0
+# At time                   10, a= 9, b= 5, c_in=0   =sum=14, c_out=0
+# ** Note: $finish    : /home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourBitAdderUsingFullAdder_tb.v(41)
+#    Time: 20 ps  Iteration: 0  Instance: /fourBitAdderUsingFullAdder_tb
+# 1
+# Break in Module fourBitAdderUsingFullAdder_tb at /home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourBitAdderUsingFullAdder_tb.v line 41
+quit -sim
+# End time: 12:23:03 on Nov 10,2020, Elapsed time: 0:27:26
+# Errors: 0, Warnings: 8
+project open /home/sriram/Documents/Verilog/aluOperations_tb/aluOperations_tb
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project aluOperations_tb
+# Compile of aluOperations_tb.v was successful.
+# Compile of aluOperations.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of aluOperations_tb.v was successful.
+# Compile of aluOperations.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of aluOperations_tb.v was successful.
+# Compile of aluOperations.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of aluOperations_tb.v was successful.
+# Compile of aluOperations.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of aluOperations_tb.v was successful.
+# Compile of aluOperations.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of aluOperations_tb.v was successful.
+# Compile of aluOperations.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of aluOperations_tb.v was successful.
+# Compile of aluOperations.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of aluOperations_tb.v was successful.
+# Compile of aluOperations.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of aluOperations_tb.v was successful.
+# Compile of aluOperations.v was successful.
+# 2 compiles, 0 failed with no errors.
+cd /home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb
+# reading /home/sriram/intelFPGA/19.1/modelsim_ase/linuxaloem/../modelsim.ini
+vsim work.fourBitAdderUsingFullAdder_tb
+# vsim work.fourBitAdderUsingFullAdder_tb 
+# Start time: 12:28:27 on Nov 10,2020
+# Loading work.fourBitAdderUsingFullAdder_tb
+# Loading work.fourbit_adder
+# Loading work.full_adder
+# Loading work.half_adder
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/i386-linux-gnu/libnss_files.so.2 : module was loaded at an absolute address.
+# At time                    0, a= 6, b= 3, c_in=0   =sum= 9, c_out=0
+# At time                   10, a= 9, b= 5, c_in=0   =sum=14, c_out=0
+# ** Note: $finish    : /home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourBitAdderUsingFullAdder_tb.v(41)
+#    Time: 20 ps  Iteration: 0  Instance: /fourBitAdderUsingFullAdder_tb
+# 1
+# Break in Module fourBitAdderUsingFullAdder_tb at /home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourBitAdderUsingFullAdder_tb.v line 41
+quit -sim
+# End time: 13:15:19 on Nov 10,2020, Elapsed time: 0:46:52
+# Errors: 0, Warnings: 8

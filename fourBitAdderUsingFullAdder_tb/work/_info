@@ -1,0 +1,116 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/sriram/Documents/Verilog/multibit_adder_tb
+vfourbit_adder
+Z0 !s110 1604989533
+!i10b 1
+!s100 ?9;OO3XMZdTUh@N;Dm0[40
+IbdTG0jBbH94Gl0>44`=_k3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb
+w1604985921
+8/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourbit_adder.v
+F/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourbit_adder.v
+L0 5
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1604989533.000000
+!s107 /home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourbit_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourbit_adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vfourBitAdderUsingFullAdder_tb
+!s110 1604989532
+!i10b 1
+!s100 mAKg?eYF7k[@V9KB7ldO41
+IW8C3nIA:?c`3;_A9ID:Od1
+R1
+R2
+w1604986540
+Z7 8/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourBitAdderUsingFullAdder_tb.v
+Z8 F/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourBitAdderUsingFullAdder_tb.v
+L0 5
+R3
+r1
+!s85 0
+31
+Z9 !s108 1604989532.000000
+Z10 !s107 /home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourBitAdderUsingFullAdder_tb.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/fourBitAdderUsingFullAdder_tb.v|
+!i113 1
+R5
+R6
+nfour@bit@adder@using@full@adder_tb
+vfull_adder
+R0
+!i10b 1
+!s100 el3`QI?maTmNUOjhl]Sl<0
+IAYFCaEdW4iLhe;aEK`UP;1
+R1
+R2
+w1604985767
+8/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/full_adder.v
+F/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/full_adder.v
+L0 5
+R3
+r1
+!s85 0
+31
+R9
+!s107 /home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/full_adder.v|
+!i113 1
+R5
+R6
+vhalf_adder
+R0
+!i10b 1
+!s100 `7DU5VH1:5k;`c6Ra5cH00
+IHCnchQBNQ=;L>=Jm>L4nd2
+R1
+R2
+w1604985828
+8/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/half_adder.v
+F/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/half_adder.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 /home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/sriram/Documents/Verilog/fourBitAdderUsingFullAdder_tb/half_adder.v|
+!i113 1
+R5
+R6
+vmultibit_adder_tb
+!s110 1604986049
+!i10b 1
+!s100 ]hD5OJ7RRmn_S^AC1G@`<3
+IW3`WW::201iMT^]BcmM?Y1
+R1
+R2
+w1604985981
+R7
+R8
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1604986049.000000
+R10
+R11
+!i113 1
+R5
+R6
